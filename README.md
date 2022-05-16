@@ -1,8 +1,9 @@
 # orbit-simulation
 
 ### Solar system 2D orbit simulation using real world variables.
-#### Celestial bodies size are out of proportion. Masses and equivalent distances to the Sun are maintained.
+#### The Sun's size is out of proportion. Masses and equivalent distances to the Sun are maintained.
 #### One second in the simulation is equivalent to 60 days in real world.
+#### One AU (Astronomical Unit) is equivalent to 250 pixels.
 #### Due to enormous magnitudes, it wouldn't be possible to represent all of the planets in one screen while maintaining respective distances.
 #### The numbers represents the planet's distance to the Sun in meters.
 
